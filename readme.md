@@ -6,3 +6,5 @@ A master dictionary for use with HashCat that combines rockyou.txt with the foll
  - First names and lastnames
  - Nicknames
  - Slang
+ - Pet names
+ 
